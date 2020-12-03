@@ -477,7 +477,7 @@
   optionalDependencies:
     keytar "^5.0.0"
 
-"@graphprotocol/graph-ts@^0.19.":
+"@graphprotocol/graph-ts@^0.19.0":
   version "0.19.0"
   resolved "https://registry.yarnpkg.com/@graphprotocol/graph-ts/-/graph-ts-0.19.0.tgz#e1ea3abcf94b91b36624a0821c6561d68720397f"
   integrity sha512-9dRwZF/jMHjIC/4jZDl8uUV3vHbXgHZV2m6728JbYcbjt4Kaw73cIxVqrsXHyDNVkVaIkZ/yorQ37pY2suLddg==
