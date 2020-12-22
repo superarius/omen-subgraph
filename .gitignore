@@ -109,6 +109,9 @@ build/
 # Exception for dxDAO contract build artifacts
 !/build/contracts/DX*.json
 
+# Exception for Gelato contract build artifacts
+!/build/contracts/Gelato*.json
+
 # Subgraph stuff
 abis/
 subgraph.yaml
